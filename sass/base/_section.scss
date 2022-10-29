@@ -1,0 +1,17 @@
+.webstudio-header {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--border-header-color);
+}
+@media screen and (min-width: 768px) {
+  .webstudio-header {
+    padding-top: 21px;
+    padding-bottom: 21px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .webstudio-header {
+    padding-top: 24px;
+    padding-bottom: 25px;
+  }
+}
